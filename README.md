@@ -2,6 +2,14 @@
 
 #### @rjhilgefort's Ergodox configuration
 
+## Qwerty Layout
+
+![](Qwerty.png?raw=true)
+
+## Qwerty Layout
+
+![](Colemak.png?raw=true)
+
 ## Resources
 
 - Configurator: https://input.club/configurator-ergodox

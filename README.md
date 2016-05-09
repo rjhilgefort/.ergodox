@@ -2,11 +2,11 @@
 
 #### @rjhilgefort's Ergodox configuration
 
-## Qwerty Layout
+## Qwerty Layout (Main)
 
 ![](Qwerty.png?raw=true)
 
-## Qwerty Layout
+## Colemak Layout (Layer 4)
 
 ![](Colemak.png?raw=true)
 

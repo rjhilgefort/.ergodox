@@ -459,7 +459,14 @@
             "w": 4,
             "h": 6,
             "layers": {
-
+                "0": {
+                    "key": "FUN3",
+                    "label": "\u01923"
+                },
+                "4": {
+                    "key": "FUN3",
+                    "label": "\u01923"
+                }
             }
         },
         {
@@ -609,12 +616,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 },
                 "4": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 }
             }
         },
@@ -626,12 +633,12 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 },
                 "4": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
@@ -937,6 +944,10 @@
                     "key": "Y",
                     "label": "Y"
                 },
+                "2": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
+                },
                 "4": {
                     "key": "J",
                     "label": "J"
@@ -988,8 +999,8 @@
                     "label": "+"
                 },
                 "2": {
-                    "key": "CONS:PAUSEPLAY",
-                    "label": "PL\/PS"
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 },
                 "3": {
                     "key": "P8",
@@ -1015,10 +1026,6 @@
                 "1": {
                     "key": "MINUS",
                     "label": "-"
-                },
-                "2": {
-                    "key": "CONS:SCANNEXTTRACK",
-                    "label": "NEXT"
                 },
                 "3": {
                     "key": "P9",
@@ -1262,6 +1269,10 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
+                },
+                "1": {
+                    "key": "DELETE",
+                    "label": "DEL"
                 },
                 "4": {
                     "key": "BACKSPACE",

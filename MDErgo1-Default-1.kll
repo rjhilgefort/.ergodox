@@ -42,6 +42,7 @@ U"H" : U"LEFT";
 U"J" : U"DOWN";
 U"K" : U"UP";
 U"L" : U"RIGHT";
+U"FUNCTION7" : U"DELETE";
 U"N" : '^';
 U"M" : '&';
 U"COMMA" : '*';

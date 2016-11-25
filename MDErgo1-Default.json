@@ -413,8 +413,8 @@
                     "label": "CAPSLK"
                 },
                 "4": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
                 }
             }
         },
@@ -701,12 +701,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SLASH",
-                    "label": "\/"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 },
                 "4": {
-                    "key": "SLASH",
-                    "label": "\/"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -717,7 +717,14 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "SLASH",
+                    "label": "\/"
+                },
+                "4": {
+                    "key": "SLASH",
+                    "label": "\/"
+                }
             }
         },
         {

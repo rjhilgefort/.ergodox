@@ -28,5 +28,12 @@
 
 ## Resources
 
-- Configurator: https://input.club/configurator-ergodox
-- Flash Firmware: https://github.com/kiibohd/controller/wiki/Loading-DFU-Firmware#mac-osx
+- [Configurator](https://input.club/configurator-ergodox)
+- [Flash Firmware](https://github.com/kiibohd/controller/wiki/Loading-DFU-Firmware#mac-osx)
+
+## Ergodox EZ
+
+Replication of the above layout, but for ergodox ez.
+
+- [My Layout Configurator](http://configure.ergodox-ez.com/keyboard_layouts/kbmlob)
+- [Flash Firmware App](https://s3.ca-central-1.amazonaws.com/ergodox-ez-configurator/executables/teensy.dmg)
